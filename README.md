@@ -133,4 +133,4 @@ Backend Developer & AI Enthusiast
 
  [github.com/LuisGH28](https://github.com/LuisGH28)
 
- [luigidev28.netlify.app]()
+ [luigidev28.netlify.app](https://luigidev28.netlify.app)
